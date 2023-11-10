@@ -3,14 +3,14 @@ entries:
   escalation-eda:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-11-10T12:58:41.242738285Z"
+    created: "2023-11-10T13:12:49.059677044Z"
     description: 'A Helm chart to install the escalation application(s): * jira-listener
       Knative service * (optional) event-display Knative service * required Knative
       eventing resoures (Trigger, SinkBinding and Broker) '
-    digest: 99de46ed96273489e91ec54e8bfff4f26269395278bd74d00bdaf1d139c45757
+    digest: 742549f41b06fa8d21927b84c4e1531320ed57d7659c3b5e2abc8eb380ef5963
     name: escalation-eda
     type: application
     urls:
     - https://dmartinol.github.io/serverless-workflow-examples/charts/latest/escalation-eda-1.0.0.tgz
     version: 1.0.0
-generated: "2023-11-10T12:58:41.24234425Z"
+generated: "2023-11-10T13:12:49.059066837Z"
